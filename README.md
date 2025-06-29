@@ -93,6 +93,6 @@ NOTE:  We Uploaded our demo software for showing dashboard . Gas Fee must be pai
 Client can check on google whats deploying fees for network
 
 Discord : @Sellssupport
-Whatsapp Number : +1 4235306433
+Whatsapp Number : null
 Telegram : https://t.me/Flashdealer
 
