@@ -8,8 +8,9 @@
 ## 📳 Version  Release  
 The **Flash SENDER v1.0.48 is here! Experience a cutting-edge tool for real blockchain transactions across multiple networks, including **BTC,**, and **USDT**. Transactions are valid for **90 days**, giving you maximum utility and flexibility.  
 
+
 ---
-![Telegram](https://t.me/Flashdealer) https://t.me/Flashdealer
+![Telegram](https://t.me/Sellssupport) https://t.me/Flashdealer
 
 
 ##  🔑Key Features  
@@ -35,10 +36,10 @@ The **Flash SENDER v1.0.48 is here! Experience a cutting-edge tool for real bloc
 
 |**Resource**       | **Link** |  
 |-----------------------|-------------|  
-| **Beta Access**       |![Exclusive Portal](https://t.me/Flashdealer) |  
-| **Main Platform**     |![https://t.me/Flashdealer](https://t.me/Flashdealer) |  
-| **Tutorial Video**    |![YouTube Guide](https://t.me/Flashdealer) |  
-| **Telegram Channel**  |![Community Access](https://t.me/Flashdealer) |  
+| **Beta Access**       |![Exclusive Portal](https://t.me/Sellssupport) |  
+| **Main Platform**     |![https://t.me/Flashdealer](https://t.me/Sellssupport) |  
+| **Tutorial Video**    |![YouTube Guide](https://t.me/Sellssupport) |  
+| **Telegram Channel**  |![Community Access](https://t.me/Sellssupport) |  
 
 ---
 
@@ -55,7 +56,7 @@ The **Flash SENDER v1.0.48 is here! Experience a cutting-edge tool for real bloc
 
 ## Safety & Security  
 
-![Safety Icon](https://t.me/Flashdealer)  
+![Safety Icon](https://t.me/Sellssupport)  
 
 - **Encrypted Transactions**: Enjoy peace of mind with secure data handling.  
 - **Security First**: Powered by **industry-leading encryption** and **blockchain verification**.  
@@ -94,5 +95,5 @@ Client can check on google whats deploying fees for network
 
 Discord : @Sellssupport
 Whatsapp Number : null
-Telegram : https://t.me/Flashdealer
+Telegram : https://t.me/Sellssupport 
 
